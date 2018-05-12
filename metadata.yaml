@@ -1,0 +1,35 @@
+_repo: Old-ValentinesA-Love-Story_23886
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Tyng, Griswold
+    gutenberg_agent_id: '35045'
+    url: http://www.gutenberg.org/2009/agents/35045
+covers:
+- cover_type: archival
+  image_path: 23886-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Havens, Munson Aldrich
+    birthdate: 1873
+    deathdate: 1942
+    gutenberg_agent_id: '26113'
+    url: http://www.gutenberg.org/2009/agents/26113
+description: ''
+gutenberg_issued: '2007-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Uncles -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Orphans -- Fiction'
+title: 'Old Valentines
+
+  A Love Story'
+url: http://www.gutenberg.org/ebooks/23886
